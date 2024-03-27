@@ -5,7 +5,7 @@ This folder contains a minimal Flask example app that supports the explanation o
 To run the app, you'll need to first install [Flask](https://flask.palletsprojects.com/), preferably into a [virtual environment](https://realpython.com/python-virtual-environments-a-primer/):
 
 ```sh
-(venv) $ python -m pip install Flask
+(venv) $ python -m pip install Flask 
 ```
 
 Then, you can start the Flask app by executing `app.py`:
